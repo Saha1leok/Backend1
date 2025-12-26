@@ -1,4 +1,4 @@
-# 🚀 Node.js + Express — Lightweight CRUD API
+# 🚀 Node.js + Express 
 
 Short project description
 This repository contains a minimal RESTful API built with Node.js and Express that demonstrates basic CRUD (Create, Read, Update, Delete) operations. Data is persisted in a local `data.json` file (NoSQL-style, file-based storage) so you don't need a separate database.
