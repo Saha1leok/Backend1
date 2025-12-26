@@ -11,20 +11,6 @@ This repository contains a minimal RESTful API built with Node.js and Express th
 
 ---
 
-## How to install dependencies
-
-1. Clone the repository (if you haven't already):
-```bash
-git clone https://github.com/Saha1leok/Backend1.git
-cd Backend1
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
----
 
 ## How to run the server
 
@@ -143,8 +129,3 @@ curl -X DELETE http://localhost:3000/objects/1
 - This project is intended for learning and simple demos — consider adding validation, error handling, and a real database for production use.
 
 ---
-
-If you want, I can:
-- Commit this README.md to your repository,
-- Add an example `server.js` with comments and route implementations,
-- Add an `npm start` script to `package.json`.
